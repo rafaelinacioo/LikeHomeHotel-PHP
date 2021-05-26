@@ -48,7 +48,7 @@ while ($dados = mysqli_fetch_assoc($relatorio)) {
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="shortcut icon" href="http://localhost/like/img/logoPNG.png">
+  <link rel="shortcut icon" href="../img/logoPNG.png">
 
   <title>Like Hotel Hotel</title>
 
@@ -349,7 +349,7 @@ while ($dados = mysqli_fetch_assoc($relatorio)) {
               <div class="row">
                 <div class="col-10"></div>
                 <div class="col-2">
-                  <img src="http://localhost/like/img/logoPNG.png" width="50" height="50" class="img-center img-fluid rounded float-right">
+                  <img src="../img/logoPNG.png" width="50" height="50" class="img-center img-fluid rounded float-right">
                 </div>
               </div>
             </div>
